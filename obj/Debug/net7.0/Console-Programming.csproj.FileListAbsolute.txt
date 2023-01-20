@@ -1,0 +1,15 @@
+C:\Users\Bora Kitirci\Desktop\Console-Programming\bin\Debug\net7.0\Console-Programming.exe
+C:\Users\Bora Kitirci\Desktop\Console-Programming\bin\Debug\net7.0\Console-Programming.deps.json
+C:\Users\Bora Kitirci\Desktop\Console-Programming\bin\Debug\net7.0\Console-Programming.runtimeconfig.json
+C:\Users\Bora Kitirci\Desktop\Console-Programming\bin\Debug\net7.0\Console-Programming.dll
+C:\Users\Bora Kitirci\Desktop\Console-Programming\bin\Debug\net7.0\Console-Programming.pdb
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.AssemblyInfoInputs.cache
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.AssemblyInfo.cs
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.dll
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\refint\Console-Programming.dll
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.pdb
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\Console-Programming.genruntimeconfig.cache
+C:\Users\Bora Kitirci\Desktop\Console-Programming\obj\Debug\net7.0\ref\Console-Programming.dll
