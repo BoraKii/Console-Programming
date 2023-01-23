@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bora Kitirci\\Desktop\\Console-Programming\\Console-Programming.csproj": {}
+    "C:\\Users\\Bora Kitirci\\Desktop\\Patika\\C# - 101\\Console-Programming\\Console-Programming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bora Kitirci\\Desktop\\Console-Programming\\Console-Programming.csproj": {
+    "C:\\Users\\Bora Kitirci\\Desktop\\Patika\\C# - 101\\Console-Programming\\Console-Programming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bora Kitirci\\Desktop\\Console-Programming\\Console-Programming.csproj",
+        "projectUniqueName": "C:\\Users\\Bora Kitirci\\Desktop\\Patika\\C# - 101\\Console-Programming\\Console-Programming.csproj",
         "projectName": "Console-Programming",
-        "projectPath": "C:\\Users\\Bora Kitirci\\Desktop\\Console-Programming\\Console-Programming.csproj",
+        "projectPath": "C:\\Users\\Bora Kitirci\\Desktop\\Patika\\C# - 101\\Console-Programming\\Console-Programming.csproj",
         "packagesPath": "C:\\Users\\Bora Kitirci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bora Kitirci\\Desktop\\Console-Programming\\obj\\",
+        "outputPath": "C:\\Users\\Bora Kitirci\\Desktop\\Patika\\C# - 101\\Console-Programming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
