@@ -57,7 +57,7 @@ namespace Console_Programming
             str1 = "Bora Kitirci";
             string ad = "Bora";
             string soyAd = "Kitirci";
-            String tamIsim = ad + " " + soyAd;
+            string tamIsim = ad + " " + soyAd;
 
             //Integer Definitions
 
